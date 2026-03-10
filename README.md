@@ -48,6 +48,3 @@ O script utiliza loops aninhados para garantir que nenhuma informação seja per
 3. **Processamento:** - Varre as linhas da planilha de entrada.
    - Para cada cluster (A-F) com valor maior que zero, ele inicia um loop interno.
    - Copia os dados da hierarquia e atribui a etiqueta do cluster correspondente.
-
-* **LinkedIn:** [Seu LinkedIn Aqui]
-* **E-mail:** [Seu E-mail Aqui]
